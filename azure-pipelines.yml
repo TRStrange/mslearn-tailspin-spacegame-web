@@ -1,6 +1,7 @@
 trigger:
 - '*'
 
+
 pool:
   vmImage: 'ubuntu-22.04'
 
